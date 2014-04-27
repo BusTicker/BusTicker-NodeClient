@@ -1,0 +1,9 @@
+{
+  "name": "BusTickerClient",
+  "description": "Client for bus ticker data",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "nodewebkit" : "0.8.6"
+  }
+}
